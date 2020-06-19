@@ -1,4 +1,4 @@
-# Awsome Embeddings
+# 🪁 Awsome Embeddings
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -6,12 +6,16 @@
 
 ## Contents
 
-- [Recommedtions](#recommedtions)
-- [Sequence](#sequence)
+- [Articles](#articles)
+    - [Recommendation](#recommendation)
+    - [Sequence](#sequence)
+- [Tools](#tools)
 
-## Recommedtion
+## Articles
 
-Recommedation engines based on entity embeddings.
+### Recommendation
+
+Recommendations engines based on entity embeddings.
 
 - [Applying Deep Learning to Related Pins](https://medium.com/the-graph/applying-deep-learning-to-related-pins-a6fee3c92f5e)
 - [Applying word2vec to Recommenders and Advertising](http://mccormickml.com/2018/06/15/applying-word2vec-to-recommenders-and-advertising/)
@@ -27,10 +31,15 @@ Recommedation engines based on entity embeddings.
 - [Using Word2vec for Music Recommendations](https://towardsdatascience.com/using-word2vec-for-music-recommendations-bb9649ac2484)
 - [Embedding Everything for Anything2Anything Recommendations](https://making.dia.com/embedding-everything-for-anything2anything-recommendations-fca7f58f53ff)
 - [Learning Embeddings for Music Recommendation with MXNet’s Sparse API](https://medium.com/apache-mxnet/learning-embeddings-for-music-recommendation-with-mxnets-sparse-api-5698f4d7d8)
+- [How GOAT Taught a Machine to Love Sneakers](https://medium.com/engineeringatgoat/how-goat-taught-a-machine-to-love-sneakers-e4a97cda71b1)
 
-## Sequence
+### Sequence
 
 - [Deep Learning with Emojis Not Math](https://tech.instacart.com/deep-learning-with-emojis-not-math-660ba1ad6cdc)
+
+## Tools
+
+- [TensorBoard](https://www.tensorflow.org/tensorboard/)
 
 ## Contribute
 
