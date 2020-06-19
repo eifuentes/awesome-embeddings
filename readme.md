@@ -1,4 +1,4 @@
-# 🪁 Awsome Embeddings
+# Awsome Embeddings
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
