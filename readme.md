@@ -9,7 +9,7 @@
 - [Recommedtions](#recommedtions)
 - [Sequence](#sequence)
 
-## Recommedtions
+## Recommedtion
 
 Recommedation engines based on entity embeddings.
 
