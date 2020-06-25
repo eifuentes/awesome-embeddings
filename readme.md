@@ -36,6 +36,8 @@ Recommendations engines based on entity embeddings.
 ### Sequence
 
 - [Deep Learning with Emojis Not Math](https://tech.instacart.com/deep-learning-with-emojis-not-math-660ba1ad6cdc)
+- [BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer](https://arxiv.org/pdf/1904.06690.pdf)
+- [Self-Attentive Hawkes Process](https://arxiv.org/pdf/1907.07561.pdf)
 
 ## Tools
 
