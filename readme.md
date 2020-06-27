@@ -32,6 +32,7 @@ Recommendations engines based on entity embeddings.
 - [Embedding Everything for Anything2Anything Recommendations](https://making.dia.com/embedding-everything-for-anything2anything-recommendations-fca7f58f53ff)
 - [Learning Embeddings for Music Recommendation with MXNet’s Sparse API](https://medium.com/apache-mxnet/learning-embeddings-for-music-recommendation-with-mxnets-sparse-api-5698f4d7d8)
 - [How GOAT Taught a Machine to Love Sneakers](https://medium.com/engineeringatgoat/how-goat-taught-a-machine-to-love-sneakers-e4a97cda71b1)
+- [Wide & Deep Learning for Recommender Systems](https://arxiv.org/pdf/1606.07792.pdf)
 
 ### Sequence
 
@@ -40,7 +41,12 @@ Recommendations engines based on entity embeddings.
 - [Self-Attentive Hawkes Process](https://arxiv.org/pdf/1907.07561.pdf)
 
 ## Tools
-
+- [Spotlight](https://github.com/maciejkula/spotlight)
+- [LightFM](https://github.com/lyst/lightfm)
+- [RecNN](https://github.com/awarebayes/RecNN)
+- [OpenRec](https://github.com/ylongqi/openrec)
+- [Flurs](https://github.com/takuti/flurs)
+- [DeepMatch](https://github.com/shenweichen/DeepMatch)
 - [TensorBoard](https://www.tensorflow.org/tensorboard/)
 
 ## Contribute
