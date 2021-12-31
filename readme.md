@@ -6,16 +6,18 @@
 
 ## Contents
 
-- [Articles](#articles)
-    - [Recommendation](#recommendation)
-    - [Sequence](#sequence)
-- [Tools](#tools)
+- [Recommendation](#recommendation)
+    - [Articles & Papers](#articles)
+    - [Tools](#tools)
+    - [Datasets](#datasets)
+    - [Videos](#videos)
+    - [Lists](#lists)
 
-## Articles
-
-### Recommendation
+## Recommendation
 
 Recommendations engines based on entity embeddings.
+
+### Articles
 
 - [Applying Deep Learning to Related Pins](https://medium.com/the-graph/applying-deep-learning-to-related-pins-a6fee3c92f5e)
 - [Applying word2vec to Recommenders and Advertising](http://mccormickml.com/2018/06/15/applying-word2vec-to-recommenders-and-advertising/)
@@ -33,21 +35,55 @@ Recommendations engines based on entity embeddings.
 - [Learning Embeddings for Music Recommendation with MXNet’s Sparse API](https://medium.com/apache-mxnet/learning-embeddings-for-music-recommendation-with-mxnets-sparse-api-5698f4d7d8)
 - [How GOAT Taught a Machine to Love Sneakers](https://medium.com/engineeringatgoat/how-goat-taught-a-machine-to-love-sneakers-e4a97cda71b1)
 - [Wide & Deep Learning for Recommender Systems](https://arxiv.org/pdf/1606.07792.pdf)
-
-### Sequence
-
 - [Deep Learning with Emojis Not Math](https://tech.instacart.com/deep-learning-with-emojis-not-math-660ba1ad6cdc)
+- [Collaborative Filtering for Implicit Feedback Datasets](http://yifanhu.net/PUB/cf.pdf)
+- [Applications of the conjugate gradient method for implicit feedback collaborative filtering](https://www.semanticscholar.org/paper/Applications-of-the-conjugate-gradient-method-for-Takács-Pilászy/bfdf7af6cf7fd7bb5e6b6db5bbd91be11597eaf0?p2df)
+- [BPR: Bayesian Personalized Ranking from Implicit Feedback](https://arxiv.org/pdf/1205.2618.pdf)
+- [WSABIE: Scaling Up To Large Vocabulary Image Annotation](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/37180.pdf) aka WARP
+- [Logistic Matrix Factorization for Implicit Feedback Data](https://web.stanford.edu/~rezab/nips2014workshop/submits/logmat.pdf)
+- [Revisiting the Performance of iALS on Item Recommendation Benchmarks](https://arxiv.org/pdf/2110.14037v1.pdf)
+- [Neural Collaborative Filtering](https://arxiv.org/pdf/1708.05031v2.pdf)
 - [BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer](https://arxiv.org/pdf/1904.06690.pdf)
 - [Self-Attentive Hawkes Process](https://arxiv.org/pdf/1907.07561.pdf)
+- [Behavior Sequence Transformer for E-commerce Recommendation in Alibaba](https://arxiv.org/pdf/1905.06874.pdf)
+- [Variational Autoencoders for Collaborative Filtering](https://arxiv.org/pdf/1802.05814.pdf)
+- [Towards Large Scale Training Of Autoencoders For Collaborative Filtering](https://arxiv.org/pdf/1809.00999.pdf)
+- [Degenerate Feedback Loops in Recommender Systems](https://arxiv.org/abs/1902.10730)
+- [Deconvolving Feedback Loops in Recommender Systems](https://proceedings.neurips.cc/paper/2016/file/962e56a8a0b0420d87272a682bfd1e53-Paper.pdf)
+- [Collaborative Filtering with Temporal Dynamics](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.379.1951&rep=rep1&type=pdf)
+- [Learning Representations of Hierarchical Slates in Collaborative Filtering](https://dl.acm.org/doi/10.1145/3383313.3418484)
+- [Tuning Word2vec for Large Scale Recommendation Systems](https://dl.acm.org/doi/10.1145/3383313.3418486)
 
-## Tools
+### Tools
 - [Spotlight](https://github.com/maciejkula/spotlight)
 - [LightFM](https://github.com/lyst/lightfm)
+- [Implicit](https://github.com/benfred/implicit)
+- [Microsoft Recommenders](https://github.com/microsoft/recommenders)
+- [Tensorflow Recommenders](https://github.com/tensorflow/recommenders)
+- [Facebook DLRM](https://github.com/facebookresearch/dlrm)
+- [NVIDIA HugeCTR](https://github.com/NVIDIA-Merlin/HugeCTR)
+- [NVIDIA Transformers4Rec](https://github.com/NVIDIA-Merlin/Transformers4Rec)
+- [NVIDIA DeepRecommender](https://github.com/NVIDIA/DeepRecommender)
 - [RecNN](https://github.com/awarebayes/RecNN)
 - [OpenRec](https://github.com/ylongqi/openrec)
 - [Flurs](https://github.com/takuti/flurs)
 - [DeepMatch](https://github.com/shenweichen/DeepMatch)
-- [TensorBoard](https://www.tensorflow.org/tensorboard/)
+- [Recoder](https://github.com/amoussawi/recoder)
+
+### Datasets
+
+- [Criteo 1TB Click Logs](https://ailab.criteo.com/download-criteo-1tb-click-logs-dataset/)
+    - [Kaggle Version](https://www.kaggle.com/c/criteo-display-ad-challenge)
+
+### Videos
+
+- [How NVIDIA Supports Recommender Systems](https://www.youtube.com/watch?v=wPso35VkuCs)
+- [RecSys 2020 Tutorial: Feature Engineering for Recommender Systems](https://www.youtube.com/watch?v=uROvhp7cj6Q)
+- [Grandmaster Series – How to Build a Winning Deep Learning Recommender System](https://www.youtube.com/watch?v=bHuww-l_Sq0)
+
+### Lists
+
+- [Papers with Code - Recsys](https://paperswithcode.com/task/recommendation-systems)
 
 ## Contribute
 
