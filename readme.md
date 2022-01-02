@@ -53,6 +53,19 @@ Recommendations engines based on entity embeddings.
 - [Collaborative Filtering with Temporal Dynamics](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.379.1951&rep=rep1&type=pdf)
 - [Learning Representations of Hierarchical Slates in Collaborative Filtering](https://dl.acm.org/doi/10.1145/3383313.3418484)
 - [Tuning Word2vec for Large Scale Recommendation Systems](https://dl.acm.org/doi/10.1145/3383313.3418486)
+- [Enhancing VAEs for Collaborative Filtering: Flexible Priors & Gating Mechanisms](https://arxiv.org/abs/1911.00936v1)
+- [Embarrassingly Shallow Autoencoders for Sparse Data](https://arxiv.org/pdf/1905.03375v1.pdf)
+- [Deep Variational Autoencoder with Shallow Parallel Path for Top-N Recommendation (VASP)](https://arxiv.org/abs/2102.05774v1)
+- [RecVAE: a New Variational Autoencoder for Top-N Recommendations with Implicit Feedback](https://arxiv.org/abs/1912.11160v1)
+- [On the Difficulty of Evaluating Baselines: A Study on Recommender Systems](https://arxiv.org/abs/1905.01395v1)
+- [Hybrid Recommender System based on Autoencoders](https://arxiv.org/pdf/1606.07659v3.pdf)
+- [AutoRec: Autoencoders Meet Collaborative Filtering](http://users.cecs.anu.edu.au/~u5098633/papers/www15.pdf)
+- [Self-Attentive Sequential Recommendation](https://arxiv.org/abs/1808.09781v1)
+- [Scaling Factorization Machines to Relational Data](http://www.vldb.org/pvldb/vol6/p337-rendle.pdf)
+- [Bayesian Factorization Machines](https://www.ismll.uni-hildesheim.de/pub/pdfs/FreudenthalerRendle_BayesianFactorizationMachines.pdf)
+- [Challenging the Long Tail Recommendation](https://arxiv.org/abs/1205.6700)
+- [Factorization Meets the Neighborhood: a Multifaceted Collaborative Filtering Model](https://people.engr.tamu.edu/huangrh/Spring16/papers_course/matrix_factorization.pdf)
+- [Deep Interest Network for Click-Through Rate Prediction](https://arxiv.org/pdf/1706.06978.pdf) aka GAUC
 
 ### Tools
 - [Spotlight](https://github.com/maciejkula/spotlight)
